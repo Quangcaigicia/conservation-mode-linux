@@ -1,1 +1,2 @@
-Put this in your ``nano ~/.bashrc
+Put this in your ```bash 
+                      nano ~/.bashrc
